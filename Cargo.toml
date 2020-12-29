@@ -1,0 +1,13 @@
+[package]
+name = "co2"
+version = "0.1.0"
+authors = ["ThePuzzlemaker <tpzker@thepuzzlemaker.info>"]
+edition = "2018"
+description = "CO₂: Human ciphers, implemented in Rust."
+readme = "README.md"
+
+[dependencies]
+thiserror = "1.0.23"
+num-bigint-dig = "0.6.1"
+num = "0.3.1"
+anyhow = "1.0.37"
